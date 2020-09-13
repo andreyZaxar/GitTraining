@@ -1,5 +1,1 @@
 # GitTraining
-
-asd
-asd
-asd
